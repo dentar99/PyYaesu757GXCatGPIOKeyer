@@ -1,5 +1,3 @@
-![PyYaesu757GXCatGPIOKeyer](https://user-images.githubusercontent.com/76819904/107884062-b25abf80-6ec0-11eb-9623-6396d4330294.png)
-
 
 NO WARRANTY
 NO WARRANTY
@@ -10,6 +8,8 @@ NO WARRANTY
 USE AT YOUR OWN RISK
 
         *******  NO SUPPORT OFFERED  *******
+
+![PyYaesu757GXCatGPIOKeyer](https://user-images.githubusercontent.com/76819904/107884062-b25abf80-6ec0-11eb-9623-6396d4330294.png)
 
 Yaesu FT757-GX-1 program by N4LSJ
 
